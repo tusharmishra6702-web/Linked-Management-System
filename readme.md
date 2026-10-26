@@ -92,7 +92,7 @@ java Main
 
 ### Main Menu & Module Selection
 
-![Main Menu Output](screenshots/main_menu.png)
+![Main Menu Output](Screenshots/main_menu.png)
 
 ### Singly Linked List Operations
 ![Singly Linked List Demo](screenshots/Singly_linkedList.png)
