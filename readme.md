@@ -88,24 +88,24 @@ java Main
 
 ---
 
-## 🖼️ Sample Outputs 
+##  Sample Outputs 
 
 ### Main Menu & Module Selection
 
 ![Main Menu Output](Screenshots/main_menu.png)
 
 ### Singly Linked List Operations
-![Singly Linked List Demo](screenshots/Singly_linkedList.png)
-![Singly Linked List Demo](screenshots/s1.png)
-![Singly Linked List Demo](screenshots/s2.png)
+![Singly Linked List Demo](Screenshots/Singly_linkedList.png)
+![Singly Linked List Demo](Screenshots/s1.png)
+![Singly Linked List Demo](Screenshots/s2.png)
 
 ### Doubly Linked List Operations 
 ![Doubly Linked List Demo](screenshots/Doubly_linkedList.png)
-![Doubly Linked List Demo](screenshots/t1.png)
-![Doubly Linked List Demo](screenshots/t2.png)
+![Doubly Linked List Demo](Screenshots/t1.png)
+![Doubly Linked List Demo](Screenshots/t2.png)
 
 ### Feature Comparison Table
-![Comparison Feature Output](screenshots/comparison.png)
+![Comparison Feature Output](Screenshots/comparison.png)
 
 ---
 
