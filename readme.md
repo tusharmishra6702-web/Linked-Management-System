@@ -100,7 +100,7 @@ java Main
 ![Singly Linked List Demo](Screenshots/s2.png)
 
 ### Doubly Linked List Operations 
-![Doubly Linked List Demo](screenshots/Doubly_linkedList.png)
+![Doubly Linked List Demo](Screenshots/Doubly_linkedList.png)
 ![Doubly Linked List Demo](Screenshots/t1.png)
 ![Doubly Linked List Demo](Screenshots/t2.png)
 
